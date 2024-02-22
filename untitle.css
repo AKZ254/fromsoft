@@ -1,0 +1,18 @@
+body{
+
+    background-image: url(apps.30323.14537704372270848.6ecb6038-5426-409a-8660-158d1eb64fb0.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: #fdd3d3;
+    font-family: "anta";
+    font-style: italic;
+}
+p1{color: rgb(220, 10, 45);
+    font-family: "Bebas Neue";
+    font-size: x-large;
+}
+#p{color: aquamarine;}
